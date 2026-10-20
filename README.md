@@ -1,11 +1,5 @@
-# \# My To-Do Application
 
-
-
-
-
-Learning Git fetch and pull.
-
+# My To-Do Application
 
 
 
